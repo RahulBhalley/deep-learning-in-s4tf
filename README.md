@@ -1,2 +1,5 @@
-# swift-for-tensorflow-examples
-Get Started with Swift for TensorFlow by examples
+# Swift for TensorFlow Examples
+#### Learn Swift for TensorFlow with example codes
+
+### Matplotlib
+- [Oscillations](https://github.com/rahulbhalley/swift-for-tensorflow-examples/blob/master/Oscillations.swift)
